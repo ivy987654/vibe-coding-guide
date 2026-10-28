@@ -1,0 +1,9 @@
+.DS_Store
+font.ttf
+**/font.ttf
+.env
+*.env
+!*.env.example
+.pio/
+build/
+*.log
